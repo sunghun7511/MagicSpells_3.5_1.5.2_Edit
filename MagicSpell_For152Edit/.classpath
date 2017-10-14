@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Dev/완성파일들/MagicSpellFor152/MagicSpells-master/lib/Factions.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/완성파일들/MagicSpellFor152/MagicSpells-master/lib/mcore.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/완성파일들/MagicSpellFor152/MagicSpells-master/lib/ProtocolLib.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/완성파일들/MagicSpellFor152/MagicSpells-master/lib/Residence.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/완성파일들/MagicSpellFor152/MagicSpells-master/lib/Towny.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/완성파일들/MagicSpellFor152/MagicSpells-master/lib/Vault.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/완성파일들/MagicSpellFor152/MagicSpells-master/lib/WorldEdit.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/완성파일들/MagicSpellFor152/MagicSpells-master/lib/WorldGuard.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/완성파일들/MagicSpellFor152/test bukkit/Desktop/spigot.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
